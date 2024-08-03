@@ -10,3 +10,5 @@
 
 • Spotify account with developer access
 
+[Download the PDF](https://github.com/Chandrasekhar333/Terraform-Project/blob/main/Spotify-Terraform.pdf)
+
