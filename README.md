@@ -3,6 +3,8 @@
   <img src="https://github.com/user-attachments/assets/83fe25e7-1280-4d65-8e4b-327dba6e9165" alt="Image" width="550" height="250">
 </p>
 
+[Project Document](https://github.com/Chandrasekhar333/Terraform-Project/blob/main/Spotify-Terraform.pdf)
+
 # Prerequisites
 • Terraform 
 
@@ -10,5 +12,5 @@
 
 • Spotify account with developer access
 
-[Download the PDF](https://github.com/Chandrasekhar333/Terraform-Project/blob/main/Spotify-Terraform.pdf)
+
 
